@@ -1,13 +1,27 @@
-# BIOLG VII Units 9 to 13 Practice
+# Anatomy & Physiology I Study Guide
 
-Interactive review for BIOLG VII (Anatomy and Physiology II), Units 9 to 13: Quick Check questions, Explain It written prompts with model answers, and vocabulary flashcards. All content is based on OpenStax *Anatomy and Physiology 2e*.
+An interactive practice site for BIOLG VI (Anatomy and Physiology I), Units 1 to 13.
 
-| Unit | Topic | Textbook Sections |
-|---|---|---|
-| 9 | Gas Exchange & Acid-Base | 22.3 to 22.6 |
-| 10 | Digestion & Metabolism | 23.4 to 23.7, 24.2 |
-| 11 | Urinary System | 25.4 to 25.6, 25.8, 26.3 to 26.5 |
-| 12 | Reproductive Anatomy & Hormonal Cycles | 27.1, 27.2 |
-| 13 | Development & Inheritance | 27.3, 28.1, 28.2, 28.4, 28.6, 28.7 |
+Live site: https://rizecomputerscience.github.io/Anatomy-I-StudyGuide/
 
-This is a single static page (`index.html`) served with GitHub Pages at https://rizecomputerscience.github.io/Anatomy-II-StudyGuide/. To update it, replace `index.html` and commit. When you upload `BIOLG_VII_Practice_Site.html`, rename it to `index.html` so GitHub Pages serves it.
+## What's on the site
+
+- **Quick Check:** Multiple-choice questions with an explanation after each answer (704 questions).
+- **Explain It:** Short- and long-answer prompts. Students write a response, then compare it to a checklist and a model answer (111 prompts).
+- **Flashcards:** Vocabulary terms and definitions from each unit (382 cards).
+
+Students can filter each mode by unit and by topic or textbook section.
+
+## Source
+
+All content is based on OpenStax, *Anatomy and Physiology 2e*, using the sections assigned in each unit's textbook reading. The flashcard terms match the Vocabulary resources in the course.
+
+## Files
+
+- `index.html`: The whole site. All questions, prompts, and flashcards are stored in this one file, with no build step or outside dependencies.
+
+## Updating the site
+
+1. Replace `index.html` with the new version.
+2. Commit and push to `main`.
+3. GitHub Pages republishes the site within a few minutes.
